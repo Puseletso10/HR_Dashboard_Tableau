@@ -99,3 +99,7 @@ For my deep dive into the data analysis Human Resources Dashboard, I used Tablea
 - HR assistant has the least average salary of 60,645 and average age of 38.
 
 
+  ![Top Paying Roles](Assets/1_top_paying_jobs.PNG)
+*Bar graph visualizing the salary for the top 10 salaries for data analysts.*
+
+
