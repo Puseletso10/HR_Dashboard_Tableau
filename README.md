@@ -104,7 +104,7 @@ For my deep dive into the data analysis Human Resources Dashboard, I used Tablea
   
 *Human Resources Employees Summary.*
 
-![](HR_Details.PNG)
+![](HR_details.PNG)
   
 *Human Resources Employees Details.*
 
