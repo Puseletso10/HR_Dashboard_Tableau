@@ -98,8 +98,14 @@ For my deep dive into the data analysis Human Resources Dashboard, I used Tablea
 - Followed by IT Manager with average salary of 113,907 and average age of 45.
 - HR assistant has the least average salary of 60,645 and average age of 38.
 
+### Dashboard Preview
 
-  !(https://github.com/Puseletso10/HR_Dashboard_Tableau/blob/main/HR_Summary.PNG)
-*Bar graph visualizing the salary for the top 10 salaries for data analysts.*
+  ![](HR_Summary.PNG)
+  
+*Human Resources Employees Summary.*
+
+![](HR_Details.PNG)
+  
+*Human Resources Employees Details.*
 
 
