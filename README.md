@@ -46,3 +46,56 @@ For my deep dive into the data analysis Human Resources Dashboard, I used Tablea
 - Step 22: HR can also navigate to endividual employees details. This will pop another dashboard where information such as ID, Demography, role, geographics, salary status of employement and length of employment will be shown. This information will show details for all employees unless HR enters certail ID to show individual details.
 - Step 23 : HR can also download the information on the dashboard as pdf of save as a picture.
 
+### Some insights
+ 
+ ### Number of Employees
+ 
+ - There is a total of 8,950 employees hired from 2015 to 2024.-
+ - Active employees are 7,985.
+ - 966 employees terminated  
+ 
+ 
+ ### Departments
+
+- Operations department has most hired employees, most active employees and most terminated employees, with 2429 active and 289 terminated employees.
+- Sales department is the second most highest with 1634 active employees and 201 terminated employees.
+- HR department has the least number of both active and terminated employees. There are 152 Active employees and only 12 terminated employees.
+
+ ### Location
+
+ - New York has most employees with the total number of 6,270, The city with most employees is New York City with 2,959 employees folowed by Rochester and Buffalo.
+ - West Virginia is the state with least employees and the city is West Virginia with most employees is Charleston with 38 employees followed by Huntington with 34 employees and lastly Morgantown with 31 employees.
+
+- Heardquarters has most employees (6,270), that is 70% of the employees and 30% is portion of employees working in Branches.
+
+### Gender
+
+- 54% of employees are Males while 46% of the employees are Females. In both genders, 11% of hired employees terminated while 89% is still active.
+
+### Education & Age
+
+- Most emplooyees (1,588) have Bachelors degree and are between 34 and 44 years.
+- Less emplooyees (79) have PHD and are between 24 and 34 years.
+- No employees who are less than 25 years and hold a PHD.
+
+### Education & Perfomance
+
+- In employees whose education level is High School, 34% need improvement, 32% satisfactory, 21% perfom good and 13% is excellent.
+- In employees who have bachelors degree, 50% perform Good, 30% satisfactory, 12% excellent and 8% need to improve.
+- In employees who have masters degree, 41% perform Good, 35% perform excellent, 19% satisfactory and 5% need to improve.
+- In employees who have PHD, 48% perform excellent, 34% good, 13% satisfactory and 5% need to improve.
+  
+### Education, Salary & Gender 
+
+- Females with High School level have average salary of 61,000 while males have an average of 63,000.
+- Females with Bachelors degree have average salary of 66,000 while males have an average of 74,000.
+- Males with Master degree have average salary of 80,000 while females have an average of 86,000.
+- Males with PHD have average salary of 80,000 while females have an average of 93,000.
+
+### Role, Salary & Gender 
+
+- The average salary of a Finance Manager is 125,143 and the average age of this role is 50 years.
+- Followed by IT Manager with average salary of 113,907 and average age of 45.
+- HR assistant has the least average salary of 60,645 and average age of 38.
+
+
